@@ -26,8 +26,8 @@ property ={
             },
         "META":{
             "sqft":None,
-            "# bed":None,
-            "# bath":None,
+            "#bed":None,
+            "#bath":None,
             "age":None
             }
     },
